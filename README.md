@@ -1,5 +1,5 @@
 # IBM-Watson-Conversation-Slots-Joys-Pizza
-A sample pizza ordering chatbot using the IBM Watson Assistant Slots feature. Includes a sample node js conversation service app for the same. Deployed on slack and facebook messenger. https://joyspizza.mybluemix.net/
+A sample pizza (also salads, sides and drink) ordering chatbot using the IBM Watson Assistant Slots feature. Includes a sample node js conversation service app for the same. Deployed on slack and facebook messenger. https://joyspizza.mybluemix.net/
 
 This is to illustrate the use of IBM Watson's conversation service (Watson Assistant) to build a sample chatbot. This is extended from the [default implementation](https://github.com/IBM/watson-conversation-slots-intro/) given by IBM.
 
